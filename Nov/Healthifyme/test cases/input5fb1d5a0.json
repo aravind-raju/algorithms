@@ -1,0 +1,93 @@
+{
+"Total Test Cases":10,
+"1":{"N":10,
+"Total Calories":
+[230,231,244,222,232,266,240,223,253,261],
+"Carbohydrate Calories":
+[91,85,82,91,89,93,95,86,86,86],
+"Protein Calories":
+[83,86,87,95,90,95,90,91,95,98],
+"Minimum Carbohydrate requirement":187,
+"Minimum Protein requirement":195},
+"2":{"N":10,
+"Total Calories":
+[197,228,218,212,282,261,212,278,186,177],
+"Carbohydrate Calories":
+[95,87,81,92,97,90,95,92,86,81],
+"Protein Calories":
+[96,93,87,81,97,99,83,89,87,83],
+"Minimum Carbohydrate requirement":177,
+"Minimum Protein requirement":147},
+"3":{"N":10,
+"Total Calories":
+[237,193,267,239,219,288,261,230,241,279],
+"Carbohydrate Calories":
+[90,85,91,96,93,96,97,89,98,99],
+"Protein Calories":
+[91,84,94,97,95,93,100,98,86,93],
+"Minimum Carbohydrate requirement":150,
+"Minimum Protein requirement":149},
+"4":{"N":10,
+"Total Calories":
+[268,257,237,228,238,199,210,234,265,217],
+"Carbohydrate Calories":
+[96,87,86,91,81,84,83,88,85,100],
+"Protein Calories":
+[92,98,83,81,92,84,95,88,83,98],
+"Minimum Carbohydrate requirement":187,
+"Minimum Protein requirement":167},
+"5":{"N":9,
+"Total Calories":
+[254,234,227,175,276,223,255,177,273],
+"Carbohydrate Calories":
+[89,86,92,89,97,85,92,81,85],
+"Protein Calories":
+[87,93,98,84,90,100,95,82,91],
+"Minimum Carbohydrate requirement":121,
+"Minimum Protein requirement":185},
+"6":{"N":9,
+"Total Calories":
+[255,229,213,237,222,184,213,186,178],
+"Carbohydrate Calories":
+[81,98,88,84,82,89,93,89,87],
+"Protein Calories":
+[83,100,90,93,92,85,94,90,89],
+"Minimum Carbohydrate requirement":135,
+"Minimum Protein requirement":150},
+"7":{"N":9,
+"Total Calories":
+[192,253,176,247,275,285,198,237,276],
+"Carbohydrate Calories":
+[82,90,91,85,97,100,85,87,89],
+"Protein Calories":
+[97,88,81,90,99,87,89,84,95],
+"Minimum Carbohydrate requirement":199,
+"Minimum Protein requirement":153},
+"8":{"N":8,
+"Total Calories":
+[278,274,196,200,253,180,204,185],
+"Carbohydrate Calories":
+[91,87,91,99,89,86,86,94],
+"Protein Calories":
+[97,88,94,89,85,89,91,85],
+"Minimum Carbohydrate requirement":153,
+"Minimum Protein requirement":176},
+"9":{"N":9,
+"Total Calories":
+[228,210,231,201,224,222,270,234,232],
+"Carbohydrate Calories":
+[91,84,88,95,100,85,96,96,86],
+"Protein Calories":
+[97,88,82,83,100,89,93,90,81],
+"Minimum Carbohydrate requirement":176,
+"Minimum Protein requirement":151},
+"10":{"N":10,
+"Total Calories":
+[181,234,220,265,186,187,234,200,252,268],
+"Carbohydrate Calories":
+[97,99,88,100,91,88,87,89,88,91],
+"Protein Calories":
+[81,89,90,81,81,95,97,86,100,100],
+"Minimum Carbohydrate requirement":184,
+"Minimum Protein requirement":180}
+}

@@ -1,0 +1,75 @@
+{
+"Total Test Cases":8,
+"1":{"N":10,
+"Total Calories":
+[58,44,41,42,40,39,60,42,41,53],
+"Carbohydrate Calories":
+[11,13,12,12,10,12,13,13,13,10],
+"Protein Calories":
+[11,12,13,13,12,13,13,12,11,11],
+"Minimum Carbohydrate requirement":86,
+"Minimum Protein requirement":98},
+"2":{"N":10,
+"Total Calories":
+[50,53,44,30,62,59,55,49,28,26],
+"Carbohydrate Calories":
+[11,12,13,10,13,10,10,10,13,12],
+"Protein Calories":
+[12,10,12,10,12,12,13,13,13,13],
+"Minimum Carbohydrate requirement":95,
+"Minimum Protein requirement":98},
+"3":{"N":10,
+"Total Calories":
+[35,31,39,41,23,70,63,62,36,39],
+"Carbohydrate Calories":
+[12,11,11,11,10,13,13,13,10,10],
+"Protein Calories":
+[11,12,13,12,11,13,10,10,11,12],
+"Minimum Carbohydrate requirement":84,
+"Minimum Protein requirement":94},
+"4":{"N":10,
+"Total Calories":
+[65,56,32,48,38,65,67,62,56,27],
+"Carbohydrate Calories":
+[10,12,11,10,11,11,12,10,11,13],
+"Protein Calories":
+[12,13,11,10,13,11,13,13,12,11],
+"Minimum Carbohydrate requirement":85,
+"Minimum Protein requirement":81},
+"5":{"N":10,
+"Total Calories":
+[47,54,28,66,62,48,60,67,52,45],
+"Carbohydrate Calories":
+[10,12,11,13,10,11,11,10,11,11],
+"Protein Calories":
+[12,11,10,12,13,13,13,11,12,12],
+"Minimum Carbohydrate requirement":88,
+"Minimum Protein requirement":97},
+"6":{"N":8,
+"Total Calories":
+[60,45,48,49,59,26,27,44],
+"Carbohydrate Calories":
+[10,13,10,13,12,13,13,10],
+"Protein Calories":
+[13,10,11,10,13,12,11,10],
+"Minimum Carbohydrate requirement":96,
+"Minimum Protein requirement":85},
+"7":{"N":10,
+"Total Calories":
+[57,37,28,34,71,45,45,33,41,35],
+"Carbohydrate Calories":
+[12,11,12,11,11,11,11,12,10,10],
+"Protein Calories":
+[12,12,12,12,13,10,13,11,10,13],
+"Minimum Carbohydrate requirement":95,
+"Minimum Protein requirement":100},
+"8":{"N":9,
+"Total Calories":
+[36,30,38,56,35,52,46,43,53],
+"Carbohydrate Calories":
+[10,11,10,10,11,11,10,11,12],
+"Protein Calories":
+[11,11,12,11,10,11,12,12,12],
+"Minimum Carbohydrate requirement":99,
+"Minimum Protein requirement":96}
+}
