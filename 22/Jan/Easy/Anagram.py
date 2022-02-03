@@ -7,9 +7,6 @@ def check_anagram(array, group):
 			output.append(i)
 	return output
 
-def check_anagram_word_occurrence():
-	pass
-
 
 array = ['cat', 'dog', 'god', 'tc']
 print(check_anagram(array, [[1, 4], [2, 3]]))
